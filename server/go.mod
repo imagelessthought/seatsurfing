@@ -1,6 +1,6 @@
 module github.com/seatsurfing/seatsurfing/server
 
-go 1.23.6
+go 1.25.0
 
 require (
 	github.com/emersion/go-ical v0.0.0-20250329121855-f41e73efc392
@@ -10,7 +10,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
 	github.com/lib/pq v1.10.9
-	golang.org/x/crypto v0.38.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/oauth2 v0.30.0
 )
 
